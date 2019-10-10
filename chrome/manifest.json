@@ -1,16 +1,16 @@
 {
   "manifest_version": 2,
-  "name": "React Chrome Extension Boilerplate",
-  "short_name": "RCEB",
+  "name": "Chrome Extension Tic Tac Toe",
+  "short_name": "TicTacToe",
   "version": "1.0.0",
-  "description": "Your awesome description here",
+  "description": "A React Chrome Extension using Redux ",
   "icons": {
     "16": "icons/16.png",
     "48": "icons/48.png",
     "128": "icons/128.png"
   },
   "browser_action": {
-    "default_title": "Chrome Extension Boilerplate",
+    "default_title": "React Tic Tac Toe",
     "default_popup": "index.html"
   },
   "background": {
